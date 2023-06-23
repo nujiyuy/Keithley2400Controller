@@ -1,7 +1,7 @@
 [Workspace Header]
 Version = 900
-Pathname Line0001 = "/c/Users/Yijun/Desktop/Keithley 2400 Controller 20230622v2/Keithley2400Controlle"
-Pathname Line0002 = "r.cws"
+Pathname Line0001 = "/c/Users/Yijun/Desktop/Keithley 2400 Controller 20230623/Keithley2400Controller."
+Pathname Line0002 = "cws"
 CVI Dir = "/c/program files (x86)/national instruments/cvi90"
 CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
 CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI90"
@@ -12,9 +12,9 @@ Number of Projects = 1
 Active Project = 1
 Project 0001 = "Keithley2400Controller.prj"
 Drag Bar Left = 241
-Window Top = 173
+Window Top = 38
 Window Left = 706
-Window Bottom = 1516
+Window Bottom = 1381
 Window Right = 1968
 Maximized = True
 Maximized Children = True
@@ -52,30 +52,30 @@ Disk Date = 3306502800
 In Projects = "1,"
 
 [File 0002]
-Path Line0001 = "/c/Users/Yijun/Desktop/Keithley 2400 Controller 20230622v2/Keithley2400Controlle"
-Path Line0002 = "r.c"
+Path Line0001 = "/c/Users/Yijun/Desktop/Keithley 2400 Controller 20230623/Keithley2400Controller."
+Path Line0002 = "c"
 File Type = "CSource"
 Disk Date = 3770337971
 In Projects = "1,"
 Window Top = 78
 Window Left = 31
-Window Z-Order = 1
-Source Window State = "1,54,54,54,0,115,115,0,0,226,0,286,0,0,0,62,60,0,93,0,531,1019,1,7,"
+Window Z-Order = 3
+Source Window State = "1,54,54,54,0,115,115,0,0,96,0,286,0,0,0,25,60,0,93,0,531,1019,1,7,"
 
 [File 0003]
-Path Line0001 = "/c/Users/Yijun/Desktop/Keithley 2400 Controller 20230622v2/Keithley2400Controlle"
-Path Line0002 = "r.uir"
+Path Line0001 = "/c/Users/Yijun/Desktop/Keithley 2400 Controller 20230623/Keithley2400Controller."
+Path Line0002 = "uir"
 File Type = "User Interface Resource"
-Disk Date = 3770337213
+Disk Date = 3770350997
 In Projects = "1,"
 Window Top = 40
 Window Left = 11
 Window Height = 531
 Window Width = 1019
-Window Z-Order = 3
+Window Z-Order = 1
 
 [File 0004]
-Path = "/c/Users/Yijun/Desktop/Keithley 2400 Controller 20230622v2/KE2400.c"
+Path = "/c/Users/Yijun/Desktop/Keithley 2400 Controller 20230623/KE2400.c"
 File Type = "CSource"
 Disk Date = 3770333249
 In Projects = "1,"
@@ -85,7 +85,7 @@ Window Z-Order = 4
 Source Window State = "1,45,45,45,0,53,53,0,0,96,0,0,0,0,0,25,0,0,45,53,531,1019,1,0,"
 
 [File 0005]
-Path = "/c/Users/Yijun/Desktop/Keithley 2400 Controller 20230622v2/KE2400.h"
+Path = "/c/Users/Yijun/Desktop/Keithley 2400 Controller 20230623/KE2400.h"
 File Type = "Include"
 Disk Date = 3770255355
 In Projects = "1,"
@@ -95,10 +95,10 @@ Window Z-Order = 5
 Source Window State = "1,20,20,20,5,30,30,0,3,96,0,0,0,0,0,25,0,0,20,5,531,1019,1,0,"
 
 [File 0006]
-Path Line0001 = "/c/Users/Yijun/Desktop/Keithley 2400 Controller 20230622v2/Keithley2400Controlle"
-Path Line0002 = "r.h"
+Path Line0001 = "/c/Users/Yijun/Desktop/Keithley 2400 Controller 20230623/Keithley2400Controller."
+Path Line0002 = "h"
 File Type = "Include"
-Disk Date = 3770337213
+Disk Date = 3770350997
 In Projects = "1,"
 Window Top = 154
 Window Left = 71

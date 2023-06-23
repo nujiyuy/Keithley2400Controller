@@ -1,0 +1,140 @@
+[Workspace Header]
+Version = 900
+Pathname Line0001 = "/c/Users/Yijun/Desktop/Keithley 2400 Controller 20230622v2/Keithley2400Controlle"
+Pathname Line0002 = "r.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi90"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI90"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "Keithley2400Controller.prj"
+Drag Bar Left = 241
+Window Top = 173
+Window Left = 706
+Window Bottom = 1516
+Window Right = 1968
+Maximized = True
+Maximized Children = True
+Max Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win For Warnings = True
+Show Build Dialog = False
+Save Changes Before Running = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 5
+Window Confinement Region Enabled = True
+MainColumnWidth = 222
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+StatusColumnWidth = 70
+
+[Project Header 0001]
+Version = 900
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Release"
+Warn User If Debugging Release = 0
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[File 0001]
+Path = "/c/Program Files (x86)/National Instruments/CVI90/toolslib/toolbox/asynctmr.fp"
+File Type = "Function Panel"
+Disk Date = 3306502800
+In Projects = "1,"
+
+[File 0002]
+Path Line0001 = "/c/Users/Yijun/Desktop/Keithley 2400 Controller 20230622v2/Keithley2400Controlle"
+Path Line0002 = "r.c"
+File Type = "CSource"
+Disk Date = 3770337971
+In Projects = "1,"
+Window Top = 78
+Window Left = 31
+Window Z-Order = 1
+Source Window State = "1,54,54,54,0,115,115,0,0,226,0,286,0,0,0,62,60,0,93,0,531,1019,1,7,"
+
+[File 0003]
+Path Line0001 = "/c/Users/Yijun/Desktop/Keithley 2400 Controller 20230622v2/Keithley2400Controlle"
+Path Line0002 = "r.uir"
+File Type = "User Interface Resource"
+Disk Date = 3770337213
+In Projects = "1,"
+Window Top = 40
+Window Left = 11
+Window Height = 531
+Window Width = 1019
+Window Z-Order = 3
+
+[File 0004]
+Path = "/c/Users/Yijun/Desktop/Keithley 2400 Controller 20230622v2/KE2400.c"
+File Type = "CSource"
+Disk Date = 3770333249
+In Projects = "1,"
+Window Top = 40
+Window Left = 11
+Window Z-Order = 4
+Source Window State = "1,45,45,45,0,53,53,0,0,96,0,0,0,0,0,25,0,0,45,53,531,1019,1,0,"
+
+[File 0005]
+Path = "/c/Users/Yijun/Desktop/Keithley 2400 Controller 20230622v2/KE2400.h"
+File Type = "Include"
+Disk Date = 3770255355
+In Projects = "1,"
+Window Top = 78
+Window Left = 31
+Window Z-Order = 5
+Source Window State = "1,20,20,20,5,30,30,0,3,96,0,0,0,0,0,25,0,0,20,5,531,1019,1,0,"
+
+[File 0006]
+Path Line0001 = "/c/Users/Yijun/Desktop/Keithley 2400 Controller 20230622v2/Keithley2400Controlle"
+Path Line0002 = "r.h"
+File Type = "Include"
+Disk Date = 3770337213
+In Projects = "1,"
+Window Top = 154
+Window Left = 71
+Window Z-Order = 2
+Source Window State = "1,0,0,0,0,0,0,0,0,96,0,0,0,0,0,25,10,0,0,0,531,1019,1,0,"
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+
